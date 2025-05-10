@@ -33,7 +33,7 @@ I would love to collaborate on projects that focus on:
 
 ## 🚀 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYIRINGIROJacques&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/BYIRINGIROJacques)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYIRINGIROJacques&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/Jacques626)
 
 ---
 
