@@ -31,12 +31,6 @@ I would love to collaborate on projects that focus on:
 
 ---
 
-## 🚀 My GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYIRINGIROJacques&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/Jacques626)
-
----
-
 ## 👯‍♂️ Let's Connect
 
 I am always open to collaborating and learning from others. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/byiringirojacques/) or [Email](mailto:your-email@example.com) for any project inquiries, collaborations, or tech discussions.
