@@ -1,16 +1,14 @@
-## Hi there 👋
+# FixFinder Rwanda
 
-<!--
-**Jacques626/Jacques626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FixFinder Rwanda is a platform designed to help vehicle owners in Rwanda find the nearest garages, estimate the cost of spare parts, and access emergency roadside assistance. The website offers a seamless experience to locate garages, view prices for spare parts, and even get connected with nearby gas stations.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Garage Finder**: Find the nearest garages based on your location.
+- **Spare Parts Pricing**: View clear pricing for common spare parts.
+- **Roadside Assistance**: Get emergency roadside assistance when needed.
+- **Gas Stations Locator**: Find nearby gas stations to refuel your vehicle.
+- **User-friendly Interface**: Simple and easy-to-use interface for a smooth experience.
+
+
+
